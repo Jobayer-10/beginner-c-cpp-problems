@@ -10,7 +10,6 @@ These programs are commonly used in **introductory programming courses and labs*
 
 * Hello World
 * Add two numbers
-* Data type sizes
 * Swap variables
 * Quotient and remainder
 
